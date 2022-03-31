@@ -1,0 +1,36 @@
+Bridge Poker Bot Manual
+
+How to play:
+
+rules may not strictly follow official bride rules
+規則為一般橋牌規則,因為是大學時跟同學完的打法,可能某些部分會有些出入
+
+^p - init poker
+after init
+^palyer - to join
+
+^bridge - start bridge game
+
+^reset - reset all
+^clear - reset but players remain
+
+suit:
+S = spade 黑桃
+H = heart 愛心
+D = diamond 菱形
+C = clove 梅花
+
+when start bridge , random pick a player to start calling king
+
+calling king:
+(add ^  , ignore case)
+nk = no king
+S = spade 黑桃
+H = heart 愛心
+D = diamond 菱形
+C = clove 梅花
+small = small
+
+type ^[your card] to play your card([] not needed)
+will dm your remain hands after playing your card
+
